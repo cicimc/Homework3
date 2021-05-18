@@ -16,7 +16,7 @@ What I used:
 * Concat to join 2 or more strings
 * Made sure the length can't be no more than 128 and no less than 8
 * A prompt and alert for if the user does not choose how long they want their password to be
-Making sure any of the characters that the user chooses are added in. (allUserInput)
+* Making sure any of the characters that the user chooses are added in. (allUserInput)
 * var newPassword 
 * Math.floor and Math.random
 * return newPassword.join (adding all elements of an array into a string)
